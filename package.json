@@ -1,0 +1,10 @@
+{
+  "name": "FileExplorer",
+  "description": "Simple file explorer.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "jquery": "^2.1.4"
+  }
+}
